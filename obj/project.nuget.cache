@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXmdhXeEAVcAlzlzq/OuTNTNa67Ze6v++gZtvGc6qMP5IdopZ6x0ZuS1pEoUhgtbgNowXmOPwd0LB2B94bU5hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\OneDrive\\Área de Trabalho\\Geral\\PIM\\Testando códigos\\UrbanGrow\\UrbanGrow\\UrbanGrow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
